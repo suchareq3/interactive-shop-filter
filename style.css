@@ -1,0 +1,86 @@
+#filterSidebar{
+    color: white;
+    background: rgb(78, 55, 100);
+}
+
+.form-check{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.05rem;
+    font-weight: 400;
+}
+
+.form-check-label{
+    width: 100%;
+}
+
+#flexcontainer{
+    background: rgb(116, 102, 133);
+}
+
+.statusBlock{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(68, 168, 68);
+    color: white;
+    font-weight: 700;
+    font-size: 0.8rem;
+    padding: 3px 4px;
+    margin-bottom: 5px;
+    border-radius: 2px;
+    text-align: left;
+    width: fit-content;
+}
+
+.salePercentage{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.05rem;
+    font-weight: bold;
+    background: black;
+    color: white;
+    width: 55px;
+    height: 55px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.card-title{
+    margin-bottom: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 1.1rem;
+    line-height: 1.45rem;
+}
+
+.namePriceSeparator{
+    background: greenyellow;
+    height: 2px;
+    width: 50px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: -5px;
+}
+
+
+.itemPrices{
+    position: relative;
+    min-height: 54px;
+}
+
+.currentPrice{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 2px;
+    line-height: normal;
+}
+
+.oldPrice{
+    color: grey;
+    text-decoration: line-through grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0;
+    font-size: 0.9rem;
+    line-height: normal;
+}
