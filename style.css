@@ -1,3 +1,7 @@
+body{
+    background: rgb(116, 102, 133);
+}
+
 #filterSidebar{
     color: white;
     background: rgb(78, 55, 100);
@@ -11,10 +15,6 @@
 
 .form-check-label{
     width: 100%;
-}
-
-#flexcontainer{
-    background: rgb(116, 102, 133);
 }
 
 .statusBlock{
